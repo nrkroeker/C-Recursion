@@ -4,10 +4,12 @@
 ###Due: 1/31/2017
 This first assignment will help to introduce you to the various tools (IDE/Editor, Tesla, and GIT) and introduce you to a new programming language, C. For this assignment, we are going to explore the power of recursion and the notion of looping as it relates to computer programs. Your goal is to create a program that prompts the user to enter a word (for simplicity we assume that the user will only enter single word answers and less than 100 characters in length) and using a single recursive function your job is to invert the word (e.g. print the word backwards). You are not allowed to use any library functions (e.g. strrev) to accomplish this. An example of this is shown below:
 
-`Please enter a word: ryan
+```
+Please enter a word: ryan
 Your word spelled backwards is: nayr
 Would you like to continue (Y|N)? N
-Thank you! Goodbye!`
+Thank you! Goodbye!
+```
 
 You are to complete this assignment in C. I will provide the skeleton (bare bones) structure of the program in the form of the file (**textWizard.c**) on Canvas. You are to edit this file to accomplish the goal of the assignment. For the basic submission you **may not** add any new methods. Your program must demonstrate the use of recursion and must loop until the user triggers the condition to terminate the program (in this case the use of the capital letter ‘N’).
 
