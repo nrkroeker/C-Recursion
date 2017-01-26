@@ -1,0 +1,10 @@
+Honor Pledge: I pledge that I have neither given nor received any help on this assignment
+
+Nathalie Kroeker
+CSCI 24000
+Assignment 1 algorithm
+
+- Accepts a string typed in by the user
+- Finds the length of this string (an integer)
+- Prints the letter at the end of the string, and decreases the length integer by one
+- 
